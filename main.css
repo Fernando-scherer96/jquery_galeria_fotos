@@ -57,8 +57,10 @@ ul li {
     max-height: 280px;
     overflow-y: hidden; /*cortar a imagem no css*/
 }
+
 ul li img{
     width: 100%; /*Estammos dizendo para a imagem ocupar 100% do seu espaço*/
+    overflow-y: hidden; /*cortar a imagem no css*/
 }
 .overlay-imagem-link {
     padding: 16px;
